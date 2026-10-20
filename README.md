@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Chun-Wen Hsueh
 
-<!--
-**ChunWenHsueh/ChunWenHsueh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Engineer based in Seattle, WA.
+- Passionate about backend development, distributed systems, and building scalable, reliable applications.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/chunwen-hsueh/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,swift,ts,js&theme=dark)](https://skillicons.dev)
+
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=spring,react&theme=dark)](https://skillicons.dev)
+
+### Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=rabbitmq,redis,mysql,postgres,mongodb,firebase,nginx&theme=dark)](https://skillicons.dev)
+
+### Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git,terraform,elasticsearch&theme=dark)](https://skillicons.dev)
